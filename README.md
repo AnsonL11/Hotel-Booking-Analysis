@@ -27,4 +27,4 @@ This project aims to understand the standard patterns and tendency of hotel book
   3. Perform exploratory analysis and visualization to understand the demographic of visitors such as visitors types, country, visit date and etc.
 
 # Where do the guests come from?
-![pie](
+![pie](https://github.com/AnsonL11/Hotel-Booking-Analysis/blob/main/Graphs/Country%20guests.png)
