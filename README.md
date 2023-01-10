@@ -35,3 +35,8 @@ From the map above shows the most of the guests are come from Europe countries a
 ![graph](https://github.com/AnsonL11/Hotel-Booking-Analysis/blob/main/Graphs/price%20per%20night.png)
 
 Figure above to see the average price per room, depending on its type and the standard deviation.
+
+# How does the price per night vary over the year?
+![line](https://github.com/AnsonL11/Hotel-Booking-Analysis/blob/main/Graphs/Room%20price.png)
+
+It can be seen that the price are much more higher in the Resort hotel compare to City hotel during the summer season. However, during spring and autumn the price of city hotel is most expensive.
