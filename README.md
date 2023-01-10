@@ -7,3 +7,8 @@ This project aims to understand the standard patterns and tendency of hotel book
 # Environment
 * ``Python 3.8``
 * ``Jupyter Notebook``
+
+# Dependencies
+**Code to run:** [Hotel Booking Analysis.ipynb](https://github.com/AnsonL11/Hotel-Booking-Analysis/blob/main/Hotel_Booking_Analysis.ipynb).
+
+**Visualization:** [Hotel Booking Analysis Visualization](https://nbviewer.org/github/AnsonL11/Hotel-Booking-Analysis/blob/main/Hotel_Booking_Analysis.ipynb).
