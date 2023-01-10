@@ -22,7 +22,7 @@ This project aims to understand the standard patterns and tendency of hotel book
 * ``Plotly express``
 
 # Deployment statragies
-  1. Download the dataset (CSV) manually and upload it into Jupyter. [File dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+  1. Download the dataset (CSV) manually and upload it into Jupyter. Click:[File dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
   2. Perform data cleaning and data transforming, to remove NaN columns and rows and fixing incomplete data within dataset.
   3. Perform exploratory analysis and visualization to understand the demographic of visitors such as visitors types, country, visit date and etc.
 
@@ -32,3 +32,5 @@ This project aims to understand the standard patterns and tendency of hotel book
 From the map above shows the most of the guests are come from Europe countries and Portugal, UK and France have the highest numbers of guests are statying in resort and city hotels. This maybe because the hotels are located in Europe.
 
 # Price for a room per night.
+![graph](https://github.com/AnsonL11/Hotel-Booking-Analysis/blob/main/Graphs/price%20per%20night.png)
+Figure above to see the average price per room, depending on its type and the standard deviation.
