@@ -28,3 +28,7 @@ This project aims to understand the standard patterns and tendency of hotel book
 
 # Where do the guests come from?
 ![pie](https://github.com/AnsonL11/Hotel-Booking-Analysis/blob/main/Graphs/Country%20guests.png)
+![map](https://github.com/AnsonL11/Hotel-Booking-Analysis/blob/main/Graphs/Guest%20country%20map.png)
+From the map above shows the most of the guests are come from Europe countries and Portugal, UK and France have the highest numbers of guests are statying in resort and city hotels. This maybe because the hotels are located in Europe.
+
+# Price for a room per night.
