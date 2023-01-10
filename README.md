@@ -33,4 +33,5 @@ From the map above shows the most of the guests are come from Europe countries a
 
 # Price for a room per night.
 ![graph](https://github.com/AnsonL11/Hotel-Booking-Analysis/blob/main/Graphs/price%20per%20night.png)
+
 Figure above to see the average price per room, depending on its type and the standard deviation.
